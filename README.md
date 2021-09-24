@@ -4,7 +4,7 @@
 * clone the project first.
 * cd (the project name).
 * npm install.
-* mpm start. 
+* npm start. 
 * browse on http://localhost:5000
 
 
